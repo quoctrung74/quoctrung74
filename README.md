@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Trung (RamTy)
 ### Aspiring Software Engineer | Computer Science Student at HCMUT
 
@@ -50,9 +51,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
 
 
 ## My GitHub contributions summary
