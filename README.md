@@ -40,7 +40,7 @@
 
 ## My GitHub stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=quoctrung74&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctrung74&layout=compact&theme=radical" alt="Top languages" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=quoctrung74&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctrung74&layout=compact&theme=radical&langs_count=8" alt="Top languages" />
 </p>
