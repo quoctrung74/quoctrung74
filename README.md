@@ -59,13 +59,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quoctrung74&theme=radical" alt="GitHub streak" />
 </p>
 
-## My GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=quoctrung74&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctrung74&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
-
 ## 📊 My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=quoctrung74&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-delta-one-jlq0ft7o18.vercel.app/api?username=quoctrung74&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-delta-one-jlq0ft7o18.vercel.app/api/top-langs/?username=quoctrung74&layout=compact&theme=tokyonight)
